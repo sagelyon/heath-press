@@ -1,0 +1,36 @@
+p{
+  font-size: 26.2px;
+  font-weight: normal;
+}
+h1{
+  font-size: 67px;
+}
+h2{
+  font-size: 39px;
+}
+ol{
+  font-size: 24px;
+  font-weight: bold;
+}
+h2 small{
+  font-size: 75%;
+}
+body{
+  margin: auto;
+  max-width: 1000px;
+}
+img{
+  width: 1000px;
+}
+.black-text{
+  color: #000;
+}
+.bold{
+  font-weight: bold;
+}
+.red-text{
+  color: #F00;
+}
+.image2{
+  max-width: 765px;
+}
